@@ -1,18 +1,26 @@
-# Olá! Tudo bem?
-Bem vindo ao meu perfil do GitHub!
-Me chamo Guilherme Rafael, tenho 16 anos, e apreço a informática desde que me entendo por gente.
-Sinta-se a vontade para ver meus repositórios, e interagir com eles!
-
-# Minhas Experiências
-Meu primeiro contato com desenvolvimento e programação foi em 2014, utilizando o "GameCreator" para tablets. Como gostava de carros, fiz um projeto simples e 2D de corrida. O app não tinha possibilidade de build então nunca exportei dali, mas já comecei a crescer meu gosto por criar.
-
-Aos 10 anos, em 2017, desenvolvi um projeto educativo chamado "Meu Pequeno Grande Aprendiz", para uma feira de ciências escolar, com foco em ensinar matemática às crianças de 4 a 5 anos. O projeto teve apoio do corpo docente para divulgação do mesmo, que fez com que ele chegasse a ser divulgado no [G1](https://www.google.com/amp/s/g1.globo.com/google/amp/to/tocantins/noticia/menino-de-10-anos-desenvolve-aplicativo-para-ajudar-na-alfabetizacao-de-criancas.ghtml) e TV Anhanguera.
-Posteriormente, o [projeto participou da FECIT](https://www.palmas.to.gov.br/portal/noticias/noite-de-premiacao-da-fecit-2017-destaca-criatividade-e-inovacao-de-projetos-selecionados/3955/) (Feira de Ciências, Inovação e Tecnologia do Tocantins), conseguindo 1° lugar na modalidade individual do Ensino Fundamental 1. Você pode baixar o projeto [aqui](https://gamejolt.com/games/oficial/259698).
-
-Aos 16 anos, em 2023, realizei um projeto 3D sobre fontes de energias renováveis, para participação de uma feira de ciências escolar. Este projeto está disponível como repositório [aqui](https://github.com/GuiRafaCL/Projeto-Fontes-de-Energia).
-
-# Nexoria Studios
-Nexoria é o nome da minha publicadora de projetos gamificados. Você vai encontrar projetos pessoais publicados com meu nome, e projetos gamificados com o nome da Nexoria. Você pode acessar os perfis do GitHub da Nexoria [aqui](https://github.com/Nexoria-Studios-CL) ou [aqui](github.com/Nexoria-Stuidos).
-
-# O que eu faço hoje?
-Atualmente estou cursando o 2° Ano do Ensino Médio, e paralelamente estou buscando conhecimento e aprendizado de linguagens de desenvolvimento web e programação, tentando me tornar um desenvolvedor fullstack.
+<img align="right" height="604cm" src="https://raw.githubusercontent.com/gist/GuiRafaCL/10d898250ba0c474bcb07c9f62e4bef8/raw/572a426213cd5f49f8cb0bd741f1a00bce11f1c6/githubcard.svg"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&random=false&width=435&lines=Ol%C3%A1+mundo!+Eu+sou+o+Gui+%3A);Tentando+sempre+aprender+mais;Me+procure+nas+redes+sociais+abaixo" alt="Olá, mundo!" /></a>
+<!---Botões de Contato--->
+<p>
+<a href="https://www.linkedin.com/in/guilherme-rafael-lopes-gomes-980570262">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+</a>
+</p>
+<!---Meu GitHub--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=0D0EF7&repeat=false&random=false&width=435&lines=Meu+GitHub" alt="Meu GitHub" />
+<p>
+<img width=33% src="https://github-readme-streak-stats.herokuapp.com?user=GuiRafaCL&theme=radical&mode=weekly" />
+<img width=27.94% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GuiRafaCL&show_icons=true&theme=radical&layout=compact" />
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Cobrinha devorando minhas contribuições" src="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg" width="620">
+</picture>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=174F68&random=false&width=435&separator=%3C&lines=Minhas+habilidades%3CEssa+lista+vai+aumentar+com+o+tempo+;)" alt="Minhas habilidades" /></a>
+<!---Minhas habilidades--->
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Engine">
+</p>
