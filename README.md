@@ -1,5 +1,7 @@
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/change%20language%20to-en-red?style=flat-square">
+<a href="https://github.com/GuiRafaCL/GuiRafaCL/blob/main/README-EN.md">
+<img alt="Change to english" src="https://img.shields.io/badge/change%20language%20to-en-red?style=flat-square">
+</a>
 </p>
 <img align="right" height="604cm" src="https://raw.githubusercontent.com/gist/GuiRafaCL/10d898250ba0c474bcb07c9f62e4bef8/raw/572a426213cd5f49f8cb0bd741f1a00bce11f1c6/githubcard.svg"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&random=false&width=435&lines=Ol%C3%A1+mundo!+Eu+sou+o+Gui+%3A);Tentando+sempre+aprender+mais;Me+procure+nas+redes+sociais+abaixo" alt="Olá, mundo!" /></a>
@@ -20,7 +22,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg">
   <img alt="Cobrinha devorando minhas contribuições" src="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg" width="52%">
 </picture>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=174F68&random=false&width=435&separator=%3C&lines=Minhas+habilidades%3CEssa+lista+vai+aumentar+com+o+tempo+;)" alt="Minhas habilidades" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=174F68&random=false&width=435&separator=%3C&lines=Minhas+habilidades%3CThis+list+will+grow+over+time+;)" alt="My skills" /></a>
 <!---Minhas habilidades--->
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
