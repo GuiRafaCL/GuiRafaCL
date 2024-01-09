@@ -14,13 +14,13 @@
 <!---Meu GitHub--->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=0D0EF7&repeat=false&random=false&width=435&lines=My+GitHub" alt="My GitHub" />
 <p>
-<img width=27% src="https://github-readme-streak-stats.herokuapp.com?user=GuiRafaCL&theme=radical&mode=weekly" />
-<img width=23% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GuiRafaCL&show_icons=true&theme=radical&layout=compact" />
+<img width=32% src="https://github-readme-streak-stats.herokuapp.com?user=GuiRafaCL&theme=radical&mode=weekly" />
+<img width=27% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GuiRafaCL&show_icons=true&theme=radical&layout=compact" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Cobrinha devorando minhas contribuições" src="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg" width="52%">
+  <img alt="Cobrinha devorando minhas contribuições" src="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg" width="60%">
 </picture>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=174F68&random=false&width=435&lines=My+skills;This+list+will+grow+over+time+%3A)" alt="My skills" /></a>
 <!---Minhas habilidades--->
