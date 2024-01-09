@@ -22,7 +22,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg">
   <img alt="Cobrinha devorando minhas contribuições" src="https://github.com/GuiRafaCL/GuiRafaCL/blob/output/github-contribution-grid-snake.svg" width="52%">
 </picture>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=174F68&random=false&width=435&separator=%3C&lines=Minhas+habilidades%3CThis+list+will+grow+over+time+;)" alt="My skills" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=174F68&random=false&width=435&separator=%3C&lines=Minhas+habilidades%3CEssa+lista+vai+crescer+com+o+tempo+;)" alt="My skills" /></a>
 <!---Minhas habilidades--->
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
