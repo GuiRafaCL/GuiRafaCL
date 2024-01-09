@@ -1,6 +1,6 @@
 <img align="right" height="604cm" src="https://raw.githubusercontent.com/gist/GuiRafaCL/10d898250ba0c474bcb07c9f62e4bef8/raw/572a426213cd5f49f8cb0bd741f1a00bce11f1c6/githubcard.svg"/>
 <img width=10% align="right" alt="Change Language to English" src="https://img.shields.io/badge/change%20language%20to-en-red?style=for-the-badge">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&random=false&width=435&lines=Ol%C3%A1+mundo!+Eu+sou+o+Gui+%3A);Tentando+sempre+aprender+mais;Me+procure+nas+redes+sociais+abaixo" alt="Olá, mundo!" /></a>
+<a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&random=false&width=435&lines=Ol%C3%A1+mundo!+Eu+sou+o+Gui+%3A);Tentando+sempre+aprender+mais;Me+procure+nas+redes+sociais+abaixo" alt="Olá, mundo!" /></a>
 <!---Botões de Contato--->
 <p>
 <a href="https://www.linkedin.com/in/guilherme-rafael-lopes-gomes-980570262">
